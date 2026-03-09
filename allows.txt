@@ -111,6 +111,7 @@ docker.io/chatwoot/chatwoot
 docker.io/chengshiwen/influx-proxy
 docker.io/chengshiwen/influxdb
 docker.io/chenhw2/aliyun-ddns-cli
+docker.io/cft0808/edict
 docker.io/chigusa/bililive-go
 docker.io/chirpstack/*
 docker.io/chishin/nginx-proxy-manager-zh
